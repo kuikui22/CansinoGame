@@ -1,0 +1,103 @@
+{
+  "GameTime": {
+    "BettingTime": 30,
+    "SettlementTime": 5
+  },
+  "BettingSetting": {
+    "Denomination1": 200,
+    "Denomination2": 500,
+    "Denomination3": 1000,
+    "Denomination4": 5000,
+    "Denomination5": 10000,
+    "TieBet": true,
+    "RemainingPointBet": true,
+    "AutoRetention": true
+  },
+  "BettingSetting2": {
+    "SingleNoteMin": 50,
+    "SingleNoteMax": 300000000,
+    "TieNoteMin": 50,
+    "TieNoteMax": 300000000,
+    "PlayerPairMin": 50,
+    "PlayerPairMax": 0,
+    "BankerPairMin": 50,
+    "BankerPairMax": 100000000,
+    "SingleMachineMax": 0,
+    "AllPlayerBankerMax": 0,
+    "AllTieNoteMax": 0,
+    "AllPlayerPairMax": 0,
+    "AllBankerPairMax": 0,
+    "AllMax": 0,
+    "BetOverInvalid": true
+  },
+  "VoiceSetting": {
+    "UseBGM": false,
+    "BGM": 2,
+    "UseVoice": false,
+    "Voice": 4,
+    "UseChips": false,
+    "Chips": 3,
+    "UseReciprocal": false,
+    "Reciprocal": 2
+  },
+  "SingleMachine": {
+    "RetentionBtn": true,
+    "RetiredBtn": true,
+    "DayCardAndStopCard": true,
+    "BigWayShowPair": true,
+    "UseChipsIndex": true,
+    "UseChipsDrop": true,
+    "BigWay": true,
+    "ThreeWay": true,
+    "BigWayNine": true,
+    "CockroachWay": true,
+    "BigCockroachWay": true,
+    "BeforeRecord": 0,
+    "RecordLoadNum": 10,
+    "LoginKeepsNum": 20,
+    "BeforeRecordMenu": true,
+    "GameRuleMenu": true,
+    "LoginBtn": true,
+    "LogoutBtn": true
+  },
+  "FeaturesSetting": {
+    "PBOnlyOne": false,
+    "RemainingPointCanOther": false,
+    "DecimalPoint": 1,
+    "BetInfo": 1,
+    "TableNumber": "Baccarat 02",
+    "BGColor": 0
+  },
+  "PukerBack": {
+    "UseFixedBackBtn": true,
+    "UseFixedBack": "back_01",
+    "ChangeBackRoundBtn": false,
+    "ChangeBackRound": 1,
+    "PickBacks1": true,
+    "PickBacks2": true,
+    "PickBacks3": true
+  },
+  "New17Keys": {
+    "KeyM": 3,
+    "KeyJ": 2,
+    "KeyQ": 0,
+    "KeyW": 1
+  },
+  "MsgSetting": {
+    "MsgFixed": true,
+    "MsgFixedValue": 2,
+    "MsgChange": false,
+    "MsgChangeValue": 0,
+    "Msg1": "歡迎光臨1",
+    "Msg2": "歡迎光臨2",
+    "Msg3": "歡迎光臨3"
+  },
+  "CardTotNum": {
+    "OpenRound": 2
+  },
+  "CutCardFeatures": {
+    "AutoCutCard": true,
+    "Round": 1,
+    "Num": 3
+  }
+}
